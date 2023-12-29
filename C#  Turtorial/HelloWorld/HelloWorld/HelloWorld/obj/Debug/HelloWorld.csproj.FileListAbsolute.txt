@@ -1,0 +1,7 @@
+D:\ICT40120  S2 2023 PTE\Programming\C#  Turtorial\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\ICT40120  S2 2023 PTE\Programming\C#  Turtorial\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\ICT40120  S2 2023 PTE\Programming\C#  Turtorial\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\ICT40120  S2 2023 PTE\Programming\C#  Turtorial\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\ICT40120  S2 2023 PTE\Programming\C#  Turtorial\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\ICT40120  S2 2023 PTE\Programming\C#  Turtorial\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\ICT40120  S2 2023 PTE\Programming\C#  Turtorial\HelloWorld\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
